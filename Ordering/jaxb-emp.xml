@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table3>
+    <order_due_date>31-07-2015</order_due_date>
+    <order_negotiation_date>25-06-2015</order_negotiation_date>
+    <order_status>PR</order_status>
+    <order_type>New</order_type>
+    <product_description>High quality Tv experience</product_description>
+    <product_end_date>21-12-36</product_end_date>
+    <product_id>1</product_id>
+    <product_name>Fios</product_name>
+    <product_qty>2</product_qty>
+    <product_start_date>21-05-2014</product_start_date>
+    <service_end_date>31-12-2016</service_end_date>
+    <service_id>101</service_id>
+    <service_name>Residential</service_name>
+</Table3>
